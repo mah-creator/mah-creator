@@ -2,7 +2,7 @@
 - 👀 I’m interested in computer-related stuff (networking, programming, ...)
 - 🌱 I’m currently learning java
 - 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me -> linkedin : linkedin.com/in/mahmoud-tahrawi-1109961b9 
+- 📫 How to reach me -> E-mail : drivemah.tah@gmail.com 
 
 <!---
 mah-creator/mah-creator is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.

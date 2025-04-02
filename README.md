@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @mah-creator
 - 👀 I’m interested in computer-related stuff (networking, programming, ...)
-- 🌱 I’m currently learning java
+- 🌱 I’m currently learning ASP.NET Core
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me -> E-mail : drivemah.tah@gmail.com 
 
